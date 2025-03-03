@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.4f5600a6c49e473bbf57b5d448863137',
+  appId: 'app.lovable.chechify',
   appName: 'T-List',
   webDir: 'dist',
   server: {
